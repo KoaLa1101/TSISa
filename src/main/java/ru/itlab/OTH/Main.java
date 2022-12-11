@@ -1,4 +1,4 @@
-package ru.itlab;
+package ru.itlab.OTH;
 
 
 import java.io.IOException;
